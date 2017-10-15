@@ -10,6 +10,6 @@
         }
     ],
     "require": {
-      "laravel/laravel": "5.1-<5.5",
+      "laravel/laravel": "5.1-<5.5"
     }
 }
